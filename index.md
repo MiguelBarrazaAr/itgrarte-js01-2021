@@ -19,6 +19,6 @@ var nombres = ["ana", "marcos", "miriam", "romina", "milton", "andres", "luis", 
 fin del código.  
 Descargar código:  
 [pulsando aquí](codigos.zip)  
-[video con la resolución](https://miguelbarrazaar.github.io/itgrarte-js01-2021/)  
+[video con la resolución](https://www.youtube.com/watch?v=ULZdh7bRutM&ab_channel=miguelbarraza)  
   
 Este trabajo está bajo una [Licencia internacional Creative Commons Reconocimiento-NoComercial-SinDerivados 4.0.](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
